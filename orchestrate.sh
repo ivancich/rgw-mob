@@ -53,4 +53,4 @@ launch_doad client-004 $rgw1 bkt4b 10 $cfile 4b.log
 launch_doad client-004 $rgw2 bkt4c 10 $cfile 4c.log
 
 launch_doad client-003 $rgw0 bktff 1 flipflop_3_cmds.txt 3ff.log
-launch_doad client-004 $rgw0 bktff 1 flipflop_4_cmds.txt 4ff.log
+launch_doad client-004 $rgw1 bktff 1 flipflop_4_cmds.txt 4ff.log
